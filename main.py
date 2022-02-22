@@ -1,1 +1,3 @@
-print("sakuma variants")
+print("nultais variants")
+
+print()
